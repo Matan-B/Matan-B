@@ -3,7 +3,7 @@
 - **Cephalocon 2025 (Vancouver)** [Re‑Architecting Ceph, One Crimson‑OSD at a Time](https://www.youtube.com/watch?v=up7idfajZgE)
 - **Cephalocon 2024 (Geneva)** [Crimson Project Update (Tentacle)](https://www.youtube.com/watch?v=IsV3WWN-YeE)
 - **Cephalocon 2023 (Amsterdam)** [From Classical to the Future](https://www.youtube.com/watch?v=8N_1WAEPw0o)
-- **Ceph Day London 2024 (Canonical)** [Crimson Project Update (Squid)](https://www.youtube.com/watch?v=QjFliCekAlo)
+- **Ceph Day   2024 (London)** [Crimson Project Update (Squid)](https://www.youtube.com/watch?v=QjFliCekAlo)
 
 ---
 
